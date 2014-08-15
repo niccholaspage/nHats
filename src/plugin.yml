@@ -1,0 +1,19 @@
+name: nHats
+
+main: com.niccholaspage.nHats.nHats
+
+version: 0.1
+
+commands:
+  hats:
+    usage:
+    description:
+    aliases:
+    - hat
+permissions:
+  nhats.use:
+    description: Allows you to open the GUI
+  nhats.normal:
+    description: Allows you to equip normal hats
+  nhats.deluxe:
+    description: Allows you to equip deluxe hats
