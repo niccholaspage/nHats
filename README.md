@@ -1,0 +1,4 @@
+nHats
+=====
+
+A hat plugin
